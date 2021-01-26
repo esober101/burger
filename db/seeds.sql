@@ -1,3 +1,6 @@
-INSERT INTO burgers (burger_name) VALUES ('Gordos Burger');
-INSERT INTO burgers (burger_name) VALUES ('Jean-Robert Burger');
-INSERT INTO burgers (burger_name) VALUES ('French Burger');
+INSERT INTO burgers (name) VALUES ('Gordos Burger');
+INSERT INTO burgers (name) VALUES ('Jean-Robert Burger');
+INSERT INTO burgers (name, devoured) VALUES ('BP&J Burger', true);
+INSERT INTO burgers (name, devoured) VALUES ('Hawaiian Burger', true);
+INSERT INTO burgers (name, devoured) VALUES ('French Burger', true);
+INSERT INTO burgers (name) VALUES ('Hangover Burger');
