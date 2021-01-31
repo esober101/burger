@@ -23,6 +23,10 @@ Burger app with MySQL, Node, Express, Handlebars, and ORM.
 ## Deployed Site
 https://secure-stream-37635.herokuapp.com/
 
+## Screenshot
+
+![Screenshot](public/assets/img/screenshot.jpg "Screenshot")
+
 ## License
 ![badge](https://img.shields.io/badge/license-MIT-blue)
 
